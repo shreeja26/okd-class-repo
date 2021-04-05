@@ -1,5 +1,5 @@
 <?php
 
-print "hiii this is openshift!!!";
+print "hiii this is openshiffft!!!";
 
 ?>
